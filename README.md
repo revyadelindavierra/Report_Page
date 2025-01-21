@@ -1,4 +1,4 @@
-# Lapor App
+# Report App
 
 A new Flutter project designed to facilitate user reporting functionalities.
 
